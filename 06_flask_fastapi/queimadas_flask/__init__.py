@@ -1,0 +1,1 @@
+from queimadas_flask.query_maker import QueryMaker
