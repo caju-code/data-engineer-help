@@ -1,6 +1,6 @@
 # Data Engineer Help
 
-Repositório com materiais de estudo de Data Engineering, focado em **Databricks**, **PySpark** e **Arquitetura Lakehouse**.
+Repositório com materiais do curso de Engenharia de Dados do Data Engineering Help, focado em **Databricks**, **PySpark** e **Arquitetura Lakehouse**.
 
 ## Estrutura
 
