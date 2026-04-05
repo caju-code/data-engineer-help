@@ -1,6 +1,8 @@
 # Data Engineer Help
 
-Repositório com materiais do curso de Engenharia de Dados do Data Engineering Help, focado em **Databricks**, **PySpark** e **Arquitetura Lakehouse**.
+<img width="151" height="150" alt="image" src="https://github.com/user-attachments/assets/19621808-b3a5-4917-beb3-18e0d2558073" />
+
+Repositório com materiais do curso de Engenharia de Dados do [Data Engineering Help](https://dataengineer.help/), focado em **Databricks**, **PySpark** e **Arquitetura Lakehouse**.
 
 ## Estrutura
 
