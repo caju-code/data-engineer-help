@@ -3,7 +3,7 @@ from pathlib import Path
 import basedosdados as bd
 
 
-billing_id = "cursodataeng"
+billing_id = "<SEU_BILLING_ID>"
 
 query = """
   SELECT
