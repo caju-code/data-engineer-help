@@ -1,0 +1,12 @@
+[project]
+name = "queimadas-fastapi"
+version = "0.1.0"
+description = "API FastAPI para consulta de focos de queimadas no Databricks"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "databricks-sql-connector[pyarrow]>=4.2.5",
+    "fastapi[standard]>=0.115.0",
+    "python-dotenv>=1.2.2",
+    "uvicorn[standard]>=0.32.0",
+]
